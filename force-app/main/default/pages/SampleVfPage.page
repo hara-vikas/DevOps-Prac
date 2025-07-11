@@ -1,0 +1,5 @@
+<apex:page >
+<h1>Congratulations! This is a visualforce page</h1>
+<p>This is my first VF page</p>
+<p>The currently logged-in user is {!$User.FirstName}</p>
+</apex:page>
